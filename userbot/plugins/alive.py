@@ -13,6 +13,5 @@ async def amireallyalive(alive):
     """ For .alive command, check if the bot is running.  """
     await alive.edit("`Currently Alive, my peru master!` **ψ(｀∇´)ψ**\n\n"
                      # Don't change this else you a TikTok loser, Son of Jinping. Add your own.
-                     "`Bot created by:` [SnapDragon](tg://user?id=719877937), @anubisxx\n"
                      f"`My peru owner`: {DEFAULTUSER}\n\n")
                    
